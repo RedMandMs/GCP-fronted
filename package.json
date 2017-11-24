@@ -1,0 +1,27 @@
+{
+  "name": "gcp_test",
+  "version": "1.0.0",
+  "description": "gcp test",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gcp_test_js"
+  },
+  "keywords": [
+    "js",
+    "gcp"
+  ],
+  "author": "vilgodskiy_sergey",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp-load-plugins": "^1.5.0"
+  }
+}
